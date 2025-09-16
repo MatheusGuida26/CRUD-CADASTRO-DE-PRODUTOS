@@ -27,6 +27,3 @@ O sistema permite:
 - **Sair** → encerra o programa.  
 
 ---
-
-## 🏗 Estrutura do Projeto
-
